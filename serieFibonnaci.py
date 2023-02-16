@@ -22,4 +22,4 @@ def fibonnaci(n):
 	else:
 		return fibonnaci(n-1)+fibonnaci(n-2)
 
-print(fibonnaci())
+fibonnaci()
